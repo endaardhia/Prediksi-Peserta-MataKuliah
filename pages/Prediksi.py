@@ -189,13 +189,14 @@ if uploaded_file is not None:
 
     #prediksi y value
     y_predict = model.predict(x_test)
+    y_predict = (np.round(y_predict).astype(int)
 
     #jumlah kelas
     #default = 30
     jumlah_kelas = (np.round(abs(y_predict / mhs_default))).astype(int)
 
     #dataframe predict dan actual
-    hasil_prediksi = pd.DataFrame({'Mata Kuliah': data.nama_matkul.unique(),'Prediksi Jumlah Mahasiswa Mengambil': (np.round(y_predict)),'Prediksi Jumlah Kelas Dibuka': jumlah_kelas})
+    hasil_prediksi = pd.DataFrame({'Mata Kuliah': data.nama_matkul.unique(),'Prediksi Jumlah Mahasiswa Mengambil': (y_predict),'Prediksi Jumlah Kelas Dibuka': jumlah_kelas})
     hasil_prediksi.sort_index()
     st.write("--------------------------------------------------------------------------------------")
     st.write("Prediksi Jumlah Peserta Mata Kuliah Pada ",tahun_prediksi)
