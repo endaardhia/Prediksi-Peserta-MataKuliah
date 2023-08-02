@@ -189,7 +189,7 @@ if uploaded_file is not None:
 
     #prediksi y value
     y_predict = model.predict(x_test)
-    y_predict = (np.round(y_predict).astype(int)
+    y_predict = (np.round(y_predict).astype(int))
 
     #jumlah kelas
     #default = 30
