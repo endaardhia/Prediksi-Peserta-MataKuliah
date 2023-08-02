@@ -16,7 +16,7 @@ mhs_default = st.number_input('Masukkan Kapasitas Mahasiswa PerKelas', min_value
 uploaded_model = st.file_uploader("Pilih file csv")
 if uploaded_model is not None:
     modelupload = pd.read_csv(uploaded_model)
-    modelupload.style.highlight_null(null_color='red')
+    #modelupload.style.highlight_null(null_color='red')
     st.write("DataFrame yang di unggah ")
     string = modelupload.sort_values(by=["tahun_akademik","nama_matkul"], ascending=True)
     string['tahun_akademik'] = modelupload['tahun_akademik'].astype(str)
