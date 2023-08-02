@@ -17,7 +17,7 @@ mhs_default = st.number_input('Masukkan Kapasitas Mahasiswa PerKelas', min_value
 uploaded_file = st.file_uploader("Pilih file csv")
 if uploaded_file is not None:
     dataupload = pd.read_csv(uploaded_file)
-    dataupload.style.highlight_null(null_color='red')
+    #dataupload.style.highlight_null(null_color='red')
     st.write("DataFrame yang di unggah ")
     st.write(dataupload)
 
