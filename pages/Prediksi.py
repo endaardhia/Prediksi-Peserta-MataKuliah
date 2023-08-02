@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import statsmodels.api as sm
+#import statsmodels.api as sm
 from sklearn.linear_model import LinearRegression
 import string
 
@@ -178,11 +178,13 @@ if uploaded_file is not None:
     model.fit(x_train, y_train)
 
     #konstanta regresi
-    x2 = sm.add_constant(x_train)
+    #x2 = sm.add_constant(x_train)
+    x2 = pd.DataFrame(x_train)
+    x2.insert(0, 'const', '1')
 
     #koefisien regresi 
-    est = sm.OLS(y_train, x2)
-    est2 = est.fit()
+    #est = sm.OLS(y_train, x2)
+    #est2 = est.fit()
 
     #prediksi y value
     y_predict = model.predict(x_test)
