@@ -1,0 +1,193 @@
+tahun_akademik,id_matkul,nama_matkul,jumlah_mhs
+2017,1,analisis perancangan sistem,59
+2017,2,bahasa indonesia,51
+2017,3,bahasa inggris,57
+2017,4,dasar pemrograman ,65
+2017,5,dasar rekayasa perangkat lunak,53
+2017,6,interaksi manusia dan komputer,104
+2017,7,jaringan komputer ,64
+2017,8,jaringan nirkabel  pw ,75
+2017,9,keamanan informasi dan jaringan ,19
+2017,10,kecerdasan buatan,157
+2017,11,kerja praktik,121
+2017,12,kewarganegaraan,54
+2017,13,logika informatika,68
+2017,14,manajemen basis data ,53
+2017,15,manajemen proyek perangkat lunak,0
+2017,16,matematika dasar i,64
+2017,17,matematika dasar ii,50
+2017,18,matematika diskrit,57
+2017,19,metode numerik ,80
+2017,20,organisasi dan arsitektur komputer,55
+2017,21,otomata,53
+2017,22,pemrograman berorientasi objek ,60
+2017,23,pemrograman jaringan ,141
+2017,24,pemrograman web ,68
+2017,25,pemrosesan bahasa alami  pba   pw ,71
+2017,26,pendidikan agama,55
+2017,27,pendidikan pancasila,65
+2017,28,pengantar teknik informatika,55
+2017,29,penulisan proposal tugas akhir,137
+2017,30,perancangan basis data,56
+2017,31,pmkm,62
+2017,32,probabilitas dan statistik,65
+2017,33,proyek perangkat lunak  ,68
+2017,34,riset operasi,67
+2017,35,sistem informasi,60
+2017,36,sistem informasi geografis  sig   pw ,69
+2017,37,sistem operasi ,55
+2017,38,sistem paralel dan terdistribusi,54
+2017,39,sistem pendukung keputusan,59
+2017,40,sistem tertanam,69
+2017,41,sosio dan etika profesi,41
+2017,42,strategi algoritma ,114
+2017,43,struktur data dan algoritma ,58
+2017,44,teknopreneur ,14
+2017,45,teori graf,46
+2017,46,teori komputer grafis,27
+2017,47,tugas akhir 1 proposal ,170
+2017,48,tugas akhir 2,162
+2018,1,analisis perancangan sistem,49
+2018,2,bahasa indonesia,42
+2018,3,bahasa inggris,61
+2018,4,dasar pemrograman ,64
+2018,5,dasar rekayasa perangkat lunak,43
+2018,6,interaksi manusia dan komputer,88
+2018,7,jaringan komputer ,66
+2018,8,jaringan nirkabel  pw ,56
+2018,9,keamanan informasi dan jaringan ,54
+2018,10,kecerdasan buatan,44
+2018,11,kerja praktik,50
+2018,12,kewarganegaraan,42
+2018,13,logika informatika,45
+2018,14,manajemen basis data ,51
+2018,15,manajemen proyek perangkat lunak,52
+2018,16,matematika dasar i,50
+2018,17,matematika dasar ii,49
+2018,18,matematika diskrit,50
+2018,19,metode numerik ,70
+2018,20,organisasi dan arsitektur komputer,46
+2018,21,otomata,55
+2018,22,pemrograman berorientasi objek ,53
+2018,23,pemrograman jaringan ,57
+2018,24,pemrograman web ,53
+2018,25,pemrosesan bahasa alami  pba   pw ,58
+2018,26,pendidikan agama,47
+2018,27,pendidikan pancasila,48
+2018,28,pengantar teknik informatika,42
+2018,29,penulisan proposal tugas akhir,58
+2018,30,perancangan basis data,51
+2018,31,pmkm,106
+2018,32,probabilitas dan statistik,45
+2018,33,proyek perangkat lunak  ,51
+2018,34,riset operasi,53
+2018,35,sistem informasi,57
+2018,36,sistem informasi geografis  sig   pw ,54
+2018,37,sistem operasi ,49
+2018,38,sistem paralel dan terdistribusi,49
+2018,39,sistem pendukung keputusan,54
+2018,40,sistem tertanam,54
+2018,41,sosio dan etika profesi,50
+2018,42,strategi algoritma ,58
+2018,43,struktur data dan algoritma ,50
+2018,44,teknopreneur ,69
+2018,45,teori graf,55
+2018,46,teori komputer grafis,59
+2018,47,tugas akhir 1 proposal ,201
+2018,48,tugas akhir 2,234
+2019,1,analisis perancangan sistem,42
+2019,2,bahasa indonesia,53
+2019,3,bahasa inggris,63
+2019,4,dasar pemrograman ,63
+2019,5,dasar rekayasa perangkat lunak,57
+2019,6,interaksi manusia dan komputer,41
+2019,7,jaringan komputer ,36
+2019,8,jaringan nirkabel  pw ,48
+2019,9,keamanan informasi dan jaringan ,63
+2019,10,kecerdasan buatan,48
+2019,11,kerja praktik,85
+2019,12,kewarganegaraan,53
+2019,13,logika informatika,62
+2019,14,manajemen basis data ,38
+2019,15,manajemen proyek perangkat lunak,48
+2019,16,matematika dasar i,60
+2019,17,matematika dasar ii,59
+2019,18,matematika diskrit,35
+2019,19,metode numerik ,42
+2019,20,organisasi dan arsitektur komputer,58
+2019,21,otomata,47
+2019,22,pemrograman berorientasi objek ,40
+2019,23,pemrograman jaringan ,47
+2019,24,pemrograman web ,50
+2019,25,pemrosesan bahasa alami  pba   pw ,54
+2019,26,pendidikan agama,61
+2019,27,pendidikan pancasila,59
+2019,28,pengantar teknik informatika,59
+2019,29,penulisan proposal tugas akhir,49
+2019,30,perancangan basis data,37
+2019,31,pmkm,52
+2019,32,probabilitas dan statistik,56
+2019,33,proyek perangkat lunak  ,47
+2019,34,riset operasi,49
+2019,35,sistem informasi,59
+2019,36,sistem informasi geografis  sig   pw ,58
+2019,37,sistem operasi ,39
+2019,38,sistem paralel dan terdistribusi,38
+2019,39,sistem pendukung keputusan,39
+2019,40,sistem tertanam,50
+2019,41,sosio dan etika profesi,41
+2019,42,strategi algoritma ,41
+2019,43,struktur data dan algoritma ,64
+2019,44,teknopreneur ,76
+2019,45,teori graf,40
+2019,46,teori komputer grafis,51
+2019,47,tugas akhir 1 proposal ,190
+2019,48,tugas akhir 2,239
+2020,1,analisis perancangan sistem,48
+2020,2,bahasa indonesia,61
+2020,3,bahasa inggris,79
+2020,4,dasar pemrograman ,69
+2020,5,dasar rekayasa perangkat lunak,66
+2020,6,interaksi manusia dan komputer,34
+2020,7,jaringan komputer ,55
+2020,8,jaringan nirkabel  pw ,37
+2020,9,keamanan informasi dan jaringan ,46
+2020,10,kecerdasan buatan,58
+2020,11,kerja praktik,128
+2020,12,kewarganegaraan,60
+2020,13,logika informatika,70
+2020,14,manajemen basis data ,55
+2020,15,manajemen proyek perangkat lunak,37
+2020,16,matematika dasar i,74
+2020,17,matematika dasar ii,67
+2020,18,matematika diskrit,53
+2020,19,metode numerik ,56
+2020,20,organisasi dan arsitektur komputer,69
+2020,21,otomata,55
+2020,22,pemrograman berorientasi objek ,51
+2020,23,pemrograman jaringan ,37
+2020,24,pemrograman web ,35
+2020,25,pemrosesan bahasa alami  pba   pw ,42
+2020,26,pendidikan agama,70
+2020,27,pendidikan pancasila,65
+2020,28,pengantar teknik informatika,66
+2020,29,penulisan proposal tugas akhir,38
+2020,30,perancangan basis data,50
+2020,31,pmkm,73
+2020,32,probabilitas dan statistik,68
+2020,33,proyek perangkat lunak  ,38
+2020,34,riset operasi,38
+2020,35,sistem informasi,56
+2020,36,sistem informasi geografis  sig   pw ,43
+2020,37,sistem operasi ,53
+2020,38,sistem paralel dan terdistribusi,50
+2020,39,sistem pendukung keputusan,61
+2020,40,sistem tertanam,45
+2020,41,sosio dan etika profesi,62
+2020,42,strategi algoritma ,57
+2020,43,struktur data dan algoritma ,67
+2020,44,teknopreneur ,43
+2020,45,teori graf,52
+2020,46,teori komputer grafis,58
+2020,47,tugas akhir 1 proposal ,221
+2020,48,tugas akhir 2,249
