@@ -107,7 +107,7 @@ if uploaded_file is not None:
     dfs = pd.DataFrame()  # Create an empty DataFrame
     for k in range(1, count):
         for j in range(1, i + 1):
-            dfs = dfs.concat(pd.DataFrame({'id_matkul': [j]}), ignore_index=True)
+            dfs = pd.concat(dfs, pd.DataFrame({'id_matkul': [j]}), ignore_index=True)
             
     jumlah['id_matkul']=dfs
 
