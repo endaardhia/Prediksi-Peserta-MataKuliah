@@ -201,7 +201,7 @@ if uploaded_file is not None:
     st.write("Prediksi Jumlah Peserta Mata Kuliah Pada ",tahun_prediksi)
     st.write(hasil_prediksi)
 
-    @st.cache_data
+    #@st.cache_data
     def convert_df(hasil_prediksi):
         return hasil_prediksi.to_csv(index=False).encode('utf-8')
 
