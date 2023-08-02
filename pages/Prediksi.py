@@ -112,7 +112,7 @@ if uploaded_file is not None:
             
     jumlah['id_matkul']=dfs
 
-    @st.cache_data
+    #@st.cache_data
     def convert_df(jumlah):
         return jumlah.to_csv(index=False).encode('utf-8')
 
