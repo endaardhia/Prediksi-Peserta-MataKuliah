@@ -93,7 +93,7 @@ if uploaded_file is not None:
     jumlah = jumlah.sort_values(by=["tahun_akademik","nama_matkul"], ascending=True)
     jumlah = jumlah.reset_index()
     jumlah = jumlah.drop(columns=['index'])
-    jumlah2 = jumlah.sort_values(by=["nama_matkul"], ascending=True)
+    jumlah2 = jumlah.sort_values(by=["nama_matkul","tahun_akademik"], ascending=True)
     jumlah2['tahun_akademik'] = jumlah2['tahun_akademik'].astype(str)
     st.write("--------------------------------------------------------------------------------------")
     st.write("Data Frame Jumlah Peserta Mata Kuliah PerTahun")
