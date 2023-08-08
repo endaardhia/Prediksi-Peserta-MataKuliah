@@ -1,0 +1,21 @@
+INSTALANSI APLIKASI
+
+1. Download folder aplikasi pada github. Copy folder tersebut ke direktori C:\
+2. Install requirement aplikasi:
+	- download python (pada laman https://www.python.org/downloads/)
+	- install "pip install streamlit" pada cmd (tanpa petik dua)
+	- install "pip install pandas" pada cmd (tanpa petik dua)
+	- install "pip install numpy" pada cmd (tanpa petik dua)
+	- install "pip install -U scikit-learn" pada cmd (tanpa petik dua)
+	- install "pip install statsmodels" pada cmd (tanpa petik dua)
+3. Setelah semua diinstal source code aplikasi sudah dapat diakses menggunakan visual studio code
+
+MENJALANKAN APLIKASI
+1. Jika aplikasi berada pada di dalam folder, perlu mengarahkan direktori ketempat folder disimpan
+   Contoh : C:\Users\Acer>cd pythonProject
+   pythonProject adalah folder tempat aplikasi disimpan
+
+2. Tambahkan command streamlit run <nama file app>
+   Contoh : C:\Users\Acer\pythonProject>streamlit run HomePage.py
+
+3. Aplikasi akan segera pada halaman browser
