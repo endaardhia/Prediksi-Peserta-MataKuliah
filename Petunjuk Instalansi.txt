@@ -11,11 +11,11 @@ INSTALANSI APLIKASI
 3. Setelah semua diinstal source code aplikasi sudah dapat diakses menggunakan visual studio code
 
 MENJALANKAN APLIKASI
-1. Jika aplikasi berada pada di dalam folder, perlu mengarahkan direktori ketempat folder disimpan
+1. Jika aplikasi berada di dalam folder, perlu mengarahkan direktori ketempat folder disimpan
    Contoh : C:\Users\Acer>cd pythonProject
    pythonProject adalah folder tempat aplikasi disimpan
 
 2. Tambahkan command streamlit run <nama file app>
    Contoh : C:\Users\Acer\pythonProject>streamlit run HomePage.py
 
-3. Aplikasi akan segera pada halaman browser
+3. Aplikasi akan segera terbuka pada halaman browser
