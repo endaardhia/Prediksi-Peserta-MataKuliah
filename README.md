@@ -11,3 +11,5 @@ FITUR MODEL :
 - Data dalam dataset TA_2017-2020_jmlh_mhs_matkul_wajib1.csv adalah data jumlah peserta mata kuliah dari tahun 2017-2020,
   sehingga jumlah peserta mata kuliah yang diuji model nya adalah untuk tahun 2020.
 - Kolom input tahun yang diisi adalah tahun yang dijadikan data testing dalam model yaitu tahun 2020.
+
+APLIKASI DAPAT PULA DIAKSES PADA LAMAN: https://prediksi-peserta-matakuliah.streamlit.app/
